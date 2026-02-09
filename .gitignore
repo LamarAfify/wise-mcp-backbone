@@ -33,3 +33,7 @@ data.db
 # python caches
 __pycache__/
 *.pyc
+
+# python caches
+__pycache__/
+*.pyc
