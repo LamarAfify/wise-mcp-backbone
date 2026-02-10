@@ -1,6 +1,6 @@
 # wise-mcp-backbone
 
-An **agentic workflow management system** built on the **Model Context Protocol (MCP)** that allows an AI agent to directly create, update, and manage real project operations — moving beyond “AI advice” to **AI execution**.
+An **agentic workflow management system** built on the **Model Context Protocol (MCP)** that allows an AI agent to directly create, update, and manage real project operations moving beyond “AI advice” to **AI execution**.
 
 This project demonstrates how an MCP-enabled agent can coordinate teams, assign work intelligently, and maintain project state through direct tool invocation rather than human-driven UI workflows.
 
@@ -21,7 +21,7 @@ This MCP enables an **Agentic Manager** that:
 - Updates milestones and project state in real time  
 - Synchronizes changes instantly with a live dashboard  
 
-The agent does not simulate actions — it **executes real system changes** through MCP tools.
+The agent does not simulate actions, it **executes real system changes** through MCP tools.
 
 ---
 
